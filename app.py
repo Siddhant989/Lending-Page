@@ -114,7 +114,7 @@ st.markdown("""
 # Display real Sigmoid logo image at top-right of every page
 col1, col2, col3 = st.columns([6, 2, 1])
 with col3:
-    st.image("Sigmoid.png", width=140)
+    st.image("images.png", width=140)
 
 
 # Function to load Lottie animations
